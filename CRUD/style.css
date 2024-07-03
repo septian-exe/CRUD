@@ -1,0 +1,10 @@
+button {
+    margin-bottom: 15px;
+    background-color: aquamarine;
+    border-radius: 25%;
+    height: 30px;
+}
+
+button, a {
+    text-decoration: none;
+}
